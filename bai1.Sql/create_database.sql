@@ -1,2 +1,0 @@
-CREATE DATABASE ShopDB;
-USE ShopDB;
